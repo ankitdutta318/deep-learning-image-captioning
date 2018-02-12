@@ -1,6 +1,6 @@
 # Ignore the Flickr Dataset as its too large and need not be pushed
-Flicker8k_Dataset
-Flickr8k_text
+Flicker8k_Dataset/*
+Flickr8k_text/*
 
 # Ignore weights other than the best weight (based on val_loss)
 models/model-ep001-loss4.487-val_loss4.161.h5
